@@ -19,5 +19,8 @@ This source-only assignment covers Laravel production deployment to shared hosti
 7. Run the optimization commands in `deployment/deploy.sh` from the Laravel project root.
 8. Test the homepage, login, API routes, database connection, and error pages on the live URL.
 
+## Completion status
+Week 4 Day 3 deployment preparation is complete. The repository includes the production environment template, deployment script, permissions script, and hosting checklist.
+
 ## Important
 This repository contains deployment reference files and scripts, not a full Laravel application. Do not upload `.env.production.example` as `.env` without filling in actual hosting credentials. Keep secrets out of Git.
